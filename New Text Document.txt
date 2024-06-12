@@ -1,0 +1,1956 @@
+PS C:\Users\as041f\projects\test> & "C:/Program Files/Python310/python.exe" "c:/Users/as041f/projects/test/Untitled-1 - Copy.py"
+jul-28-2023             1a387 : 1
+(8691)  226607  293373  "pws : 1
+fail : 42
+and wxr : 11
+was : 45
+displayed : 22
+intermittently : 7
+at : 36
+approximately : 16
+1730z : 2
+and : 182
+1732z : 2
+on : 125
+both : 25
+the : 142
+fo : 10
+captains : 9
+nd : 6
+ : 228
+maintenance : 20
+msg: : 2
+
+34-43107 wxr : 5
+
+transmitter/receiver : 28
+1 : 49
+is : 38
+failed : 11
+detected : 12
+by: wx processor : 4
+pictures : 5
+attached"       "ops : 1
+fix: : 92
+remove : 1
+replaced : 50
+weather : 41
+transmitter : 36
+module : 101
+
+(p/n:822-2127-101) : 2
+
+verified : 13
+
+(34-43107, : 2
+34-43100) : 2
+
+not : 42
+active. : 2
+wxr : 111
+s/n : 186
+off:798m4 : 2
+on:77t75 : 3
+per : 84
+dwg : 44
+284a0506 : 66
+sht : 9
+22, : 6
+rev : 208
+a, : 8
+performed : 29
+retest: : 4
+ym34417400:0001 : 76
+g. : 4
+block : 111
+6000. : 39
+test : 166
+passed. : 40
+no : 57
+fault : 9
+active : 6
+after : 13
+r&r. : 2
+functional : 89
+complete. : 2
+also : 22
+include: : 17
+p/n: : 75
+
+822-2127-101 : 30
+
+off: : 73
+798m4 : 4
+on: : 72
+77t75 : 6
+drawing : 78
+#: : 197
+284a0506-12#a : 32
+removal : 81
+records: : 69
+n1491377943 : 1
+qa : 60
+acceptance : 49
+07/31/2023 : 1
+14:05: : 1
+removed : 35
+n1491377943" : 1
+aug-01-2023             1a387 : 2
+(8691)  227267  294692  "repeat : 1
+#5. : 2
+repeat : 8
+#3. : 3
+first : 8
+leg : 6
+of : 50
+flight, : 7
+pws : 22
+flags : 4
+1621z : 2
+1635z : 2
+nd. : 3
+second : 2
+during : 25
+taxi : 2
+out : 6
+2014z : 2
+throughout : 2
+remainder : 3
+flight. : 6
+found : 7
+message: : 2
+photo : 6
+attached."      "ops : 2
+operations : 18
+troubleshot : 2
+n1491379512. : 1
+all : 7
+wiring : 3
+checks : 5
+called : 1
+passed : 16
+with : 36
+defects : 6
+noted. : 11
+wx : 13
+radar : 47
+design : 2
+engineering : 29
+present, : 1
+it : 12
+noted : 11
+that : 17
+left : 11
+right : 9
+tilt : 10
+knobs : 1
+were : 14
+following : 8
+indications : 1
+displays : 8
+respectively. : 1
+d.e. : 1
+concurrence, : 1
+control : 7
+panel : 4
+replaced. : 3
+p/n : 16
+
+622-5129-802, : 1
+
+4v7y6y : 2
+4rrhr8. : 1
+ref : 4
+rrmv : 4
+n1491382301. : 1
+system : 20
+f/t : 2
+g : 37
+blk : 5
+used : 1
+: : 1
+233a6104 : 2
+sh : 30
+b. : 2
+233a6104-344381#c. : 1
+
+622-5129-802 : 1
+
+on:4rrhr8 : 1
+b : 2
+233a6104-344381#c : 1
+6000 : 67
+n1491382301 : 1
+08/05/2023 : 1
+15:33:" : 1
+(8691)  227267  294610  "repeat : 1
+attached : 12
+repeated : 1
+taxiing : 1
+while : 4
+airplane : 7
+in : 40
+turns." "ops : 1
+fix:removed : 2
+processor : 30
+
+822-3150-101 : 17
+
+tested : 5
+according : 4
+to : 93
+bpi-3517 : 5
+section : 5
+5.1 : 5
+summarize : 5
+a : 59
+description : 5
+work : 5
+resolve : 5
+flight : 23
+discrepancy : 6
+off:78ynr : 1
+on:78yr1 : 1
+284a0400 : 26
+#:284a0411-344302#a : 3
+n1491379240 : 1
+antenna : 31
+drive : 21
+
+822-2130-001 : 14
+
+off:4vkyxy : 1
+on:4rk1pf : 1
+22 : 48
+#:284a0506-12#a : 7
+n1491379238 : 1
+fix:antenna : 1
+
+622-5137-601 : 8
+
+part : 7
+gain : 11
+access : 3
+reinstalled : 2
+" : 1
+continued….     "according : 1
+off:4t8kvc : 1
+on:4t8kvc : 1
+n1491379263 : 1
+fix:wxr : 1
+off:77t75 : 1
+n1491379312 : 1
+08/01/2023 : 1
+21:58: : 1
+08/02/2023 : 1
+15:48: : 1
+eng : 19
+response : 14
+required." : 8
+aug-06-2023             1a387 : 1
+(8691)  227328  294853  "repeat : 1
+#8. : 1
+(rtm) : 3
+off : 16
+798my : 4
+retested : 22
+reference : 8
+sheet : 60
+tag : 5
+n1491379512 : 2
+eqpt : 2
+instl : 4
+- : 14
+5 : 2
+record : 2
+n1491383898 : 3
+08/08/2023 : 1
+08:20: : 1
+n1491383898" : 1
+aug-16-2023             1l501 : 1
+(8689)  227440  295229  wx radar : 1
+has : 8
+light : 2
+leak. : 1
+picture : 3
+attached.       ops : 2
+transferred : 11
+order : 1
+id: : 1
+149-nflt-8689-rgen-7004-004nc : 1
+aug-22-2023             vh086 : 1
+(1286)  226653  296958  during : 1
+preflight, wxr : 1
+sys : 3
+status : 25
+posted : 3
+with wxr : 2
+ant : 1
+pilots : 4
+nd.     "ops : 1
+xcvr : 2
+
+822-1710-002 : 1
+
+4r3txy : 1
+4tl607 : 1
+284t0019 : 1
+7 : 1
+284t0019-444#c : 1
+tm34435401:0001 : 4
+d. : 3
+170-avi-1286-rrmv-sqwk-001nc : 1
+& : 10
+170-avi-1286-rrmv-sqwk-002nc : 1
+cycled : 1
+dpc : 2
+center : 1
+reinitialize : 1
+interface : 1
+between : 5
+dpc's : 1
+wxr. : 1
+ran : 5
+jitt: : 2
+passes. : 4
+08/23/2023 : 1
+04:43:" : 1
+aug-23-2023             vh086 : 1
+(1286)  228621  297010  during : 1
+normal : 2
+preflight, : 3
+with wx radar : 1
+selected : 14
+dcp : 3
+(lds), : 1
+when : 12
+selecting : 1
+'test' : 1
+the wx radar : 1
+panel, : 1
+pattern : 4
+automatically : 1
+appears : 6
+lds : 1
+(not : 4
+expected). wxr : 1
+needs : 1
+be : 6
+de-selected : 2
+stop : 1
+pattern. : 3
+also, : 3
+if : 1
+function : 1
+subsequently : 1
+panel, wxr : 1
+remains : 1
+(despite : 1
+being : 2
+deliberately : 1
+dcp). : 1
+addition, : 1
+momentary : 2
+"windsheer : 1
+sys" : 1
+advisory : 2
+annunciated : 2
+auto : 7
+(no : 1
+lds).   "ops : 1
+wires : 2
+w1244-101-20, : 1
+w1244-102-20 : 2
+tb4524 : 5
+ua129 : 1
+s/b : 1
+pa128 : 1
+for : 18
+wire : 2
+w1244-101-20 : 1
+shield : 2
+pb128 : 1
+pa127 : 1
+pb127. : 1
+pass. : 2
+s280w555-538 : 1
+nsn : 2
+288t4120 : 1
+1024 : 1
+-- : 1
+288t4120-1024#a : 1
+d : 1
+170-avi-1286-n1700310930-001nc : 1
+170-avi-1286-rrmv-sqwk-004nc : 1
+170-avi-1286-rrmv-sqwk-006nc : 1
+170-elec-1286-rrmv-sqwk-007nc : 1
+170-elec-1286-rrmv-sqwk-008nc : 1
+170-elec-1286-rrmv-sqwk-009nc : 1
+08/25/2023 : 1
+20:49:" : 1
+sep-11-2023             1l106 : 1
+(8225)  228781  297668  during : 1
+cruise : 10
+2141z, : 1
+felt : 2
+heard : 5
+mechanical : 1
+rumbling : 1
+noise : 1
+coming : 1
+from : 10
+nose : 4
+aircraft. : 2
+this : 7
+accompanied : 1
+by : 11
+flags. : 1
+worked : 2
+post : 12
+received : 1
+capt wxr : 2
+flag : 9
+associated : 7
+message : 24
+
+34-43101 wxr : 2
+
+failed. : 11
+see : 16
+photo.  "ops : 3
+confirmed : 2
+exists. : 3
+installed : 2
+new : 2
+#822-2130-001 : 1
+-a : 1
+284a0506-12#a. : 1
+retest : 9
+
+p/n:822-2130-001 : 3
+
+off:4h96vk : 1
+on:4kl5v0 : 1
+#:284a0506 : 5
+-a. : 1
+#:ym34417400:0001 : 4
+records:n1491414496 : 1
+n1491414494 : 1
+n1491414482 : 1
+n1491408529 : 1
+09/20/2023 : 1
+14:58: : 1
+verified." : 1
+sep-14-2023             1b045 : 2
+(8764)  228778  297739  weather : 1
+ghost : 5
+return : 4
+patterns : 3
+f/o : 2
+nav : 4
+consistently : 2
+area. : 2
+occurred : 5
+both wx and wx + : 1
+t : 3
+modes. : 3
+(pic : 2
+attached).      "ops : 3
+null : 2
+10/03/2023 : 3
+14:14: : 2
+operating : 2
+type : 3
+design. : 2
+reviewed : 2
+data. : 3
+2004z, : 2
+flying : 2
+fl410, : 2
+magnetic : 2
+heading : 2
+101 : 2
+deg, : 8
+latitude/ : 2
+longitude : 2
+coordinates : 2
+approximately: : 2
+48 : 2
+-124 : 2
+which : 7
+indicates : 2
+around : 9
+peninsula. : 2
+roll : 4
+angle : 4
+-30 : 2
+indicating : 4
+roll. : 2
+based : 2
+position : 2
+airplane, : 2
+we : 3
+can : 2
+conclude : 2
+returns/spoke : 2
+as : 9
+crew : 6
+due : 4
+external : 3
+interference : 3
+mccord : 2
+afb. : 2
+avionics : 4
+technicians : 4
+have : 9
+ym34417400_0001 : 2
+verify : 2
+functionality : 4
+indicated : 3
+value : 2
+set : 26
+max : 4
+more : 7
+sensitive : 2
+explains : 2
+returns. : 3
+concurred : 4
+ben : 2
+eckley, : 2
+compliance : 2
+expert : 2
+bradley : 2
+byrd, : 2
+pilot" : 2
+oct-03-2023             wh001 : 2
+(1567)  229059  298412  irig : 2
+~1544z, : 2
+cruise, : 2
+l wxr : 1
+l : 6
+mfd, : 2
+starting : 2
+0, : 2
+barely : 2
+any : 3
+visible : 2
+shown, : 2
+then : 9
++1 : 2
+started : 4
+show : 5
+some : 4
+activity, : 1
++2, : 2
+nominal/optimal : 2
+selected wxr : 1
+r : 6
+same : 3
+behavior. : 2
+fde : 2
+or : 10
+correlated : 8
+messages : 9
+time : 7
+discovery. : 2
+photos : 10
+taken : 2
+significant : 2
+cell : 1
+display : 6
+snapshots : 2
+changed : 2
+man.    "eng : 2
+engineering; : 2
+alps : 19
+number : 18
+pending : 2
+oct-04-2023 : 8
+13:36 : 4
+pdt, : 41
+m.&#x20;rosenzweig : 4
+(285294) : 4
+alps. : 12
+signoff: : 20
+mfg : 12
+manager. : 25
+22:06 : 2
+r.&#x20;dsouza : 2
+(1852936) : 2
+22:11 : 2
+r.&#x20;sears : 6
+(3296022) : 6
+32819. : 2
+oct-06-2023 : 2
+06:56 : 2
+s.&#x20;lopez : 8
+(2194194)" : 4
+nov-08-2023             1d178 : 2
+(8783)  229425  299534  during : 1
+warning : 6
+nds. : 2
+had : 13
+the wxr : 4
+rt : 2
+follows: wxr : 2
+by wxr : 5
+1.      "ops : 2
+reseated : 1
+
+930-1000-002.functional : 1
+
+ym34417300:0001 : 9
+j : 11
+condition : 2
+longer : 3
+exists : 1
+
+930-1000-002 : 11
+
+rp09810 : 5
+sh1 : 4
+u : 21
+284a0411-344301#b : 4
+#:ym34417300:0001 : 2
+n1470578499 : 1
+11/08/2023 : 1
+19:50: : 1
+required" : 5
+(8783)  229425  299558  repeat : 1
+#2. : 5
+# : 7
+processor, : 2
+xmtr/rcvr : 4
+
+#930-2000-010 : 1
+
+rp-1 : 3
+rev. : 8
+j, : 5
+replacement : 5
+did : 6
+correct : 1
+flt : 2
+sqwk : 5
+#5 : 2
+condition. : 6
+n1470578604 : 1
+
+930-2000-010 : 16
+
+tr11064 : 1
+tr11866 : 1
+25 : 2
+284a0506-16#c : 2
+resolved : 1
+n1470578606 : 1
+________________ : 1
+1001002-7b : 2
+radome : 2
+assy : 2
+n/a : 12
+284a0801 : 1
+38 : 1
+rev._ : 1
+284a0801-17b#d : 1
+n1470578605 : 1
+xmtr/rcvr. : 1
+11/15/2023 : 1
+21:51: : 1
+nov-24-2023             wf322 : 1
+(1759)  229746  300217  at : 1
+22:38z : 1
+two : 1
+times : 7
+
+34-49966 : 1
+
+ground : 7
+proximity : 1
+computer : 3
+input : 3
+from wxr : 1
+transceiver : 1
+(right) : 2
+arinc : 2
+429 : 1
+bus. : 1
+right wxr : 1
+normal. "ops : 2
+xcvr-right : 1
+egpwc : 2
+wd34-46-11 : 1
+wd34-43-23, : 1
+anomalies : 1
+xcvr-r : 1
+wm34430304:0002 : 3
+g, : 8
+800 : 2
+wm34460104:0002 : 2
+v, : 2
+blocks : 1
+500-510 : 2
+retests : 1
+ncr : 14
+n1780576085 : 1
+further : 2
+action : 1
+required : 2
+performing : 1
+fim : 1
+tests. : 1
+none : 3
+parts : 9
+178-avi-1759-rrmv-sqwk-004nc : 1
+284w3042 : 1
+80 : 1
+-. : 1
+284w3042-78#a : 1
+
+822-1710-312 : 1
+
+4tl63k : 2
+178-avi-1759-rrmv-sqwk-005nc : 1
+grnd : 1
+prox : 2
+warn : 1
+284w0404 : 1
+284w0441-281#c : 1
+69000940-101 : 1
+mk5a-12628 : 2
+11/30/2023 : 1
+11:18:" : 1
+dec-06-2023             1n851 : 1
+(8803)  229896  300722  during : 1
+initial : 1
+climb, : 1
+17:33z, wxr : 1
+momentarily : 3
+illuminated : 2
+capt : 5
+nd      ops : 1
+module, : 5
+drive, : 4
+processor. : 3
+7992n : 1
+79j87 : 1
+n1491473470 : 1
+4yryyk : 1
+4yrxxm : 1
+n1491473490 : 1
+78yhv : 1
+79dj5 : 1
+284a0411-344302#a : 10
+n1491473445 : 1
+12/11/2023 : 1
+20:48: : 1
+dec-22-2023             1a705 : 2
+(7703)  230217  301229  at : 2
+1950z, : 2
+one : 5
+minute : 2
+takeoff : 4
+mwh : 6
+bfi, : 2
+
+(34-43101) : 4
+
+fo wxr : 2
+messages. : 3
+pilot : 5
+copilot : 3
+departure. : 4
+noticed : 2
+afrs.   ops : 1
+passed, : 3
+mx : 9
+msg's. : 2
+n2780166133 : 2
+4n8xvk : 2
+4h99hp : 2
+n2780166138 : 2
+780gc : 2
+78v6j : 2
+n2780166139 : 2
+781ln : 2
+781n1 : 2
+n2780166140 : 2
+12/23/2023 : 2
+22:05: : 1
+jan-21-2024             1a392 : 2
+(8857)  230498  301960  with : 1
+map : 6
+mode : 7
+gain/auto : 2
+selected, : 1
+does : 3
+paint : 2
+data. wx+t : 1
+normal. : 2
+arrival : 2
+into : 3
+kbfi : 3
+returns : 10
+area, : 2
+on wxr, : 1
+map, : 2
+identical. : 2
+apply : 3
+shop : 5
+2110864 : 2
+01/31/2024 : 4
+13:44 : 2
+m1752 : 2
+adiru : 8
+hg2050bc04 : 5
+56219740 : 2
+56220771 : 2
+sh1, : 4
+284a0452-342102#a : 5
+#:ym34217106:0001 : 4
+n1491506199 : 4
+m1749 : 2
+56219836 : 2
+56220820 : 2
+retest, : 2
+13:51: : 2
+required. : 1
+jan-22-2024             1l104 : 1
+(8183)  230527  301994  at : 1
+1912 : 1
+z : 1
+officers : 4
+displays. : 3
+happened : 1
+
+34-43107 : 4
+
+attached.       "ops : 6
+
+822-2127-101, : 5
+
+77bf1, : 2
+7993h : 4
+22. : 5
+ref. : 5
+removal, : 5
+n1491501271. : 2
+77bf1 : 4
+n1491501271 : 2
+01/23/2024 : 1
+21:28: : 1
+passed" : 1
+jan-31-2024             1a718 : 1
+(7828)  230654  302277  f/o : 1
+pfd : 1
+displayed wx fail : 1
+climb : 6
+5sec : 1
+self-cleared : 1
+20:43z. : 1
+post-flight : 1
+msg : 3
+present: : 1
+active wxr : 2
+1. : 2
+present : 5
+history, : 1
+but : 5
+current : 1
+faults. : 2
+could : 3
+duplicate : 5
+ground. : 1
+jitt : 9
+faults : 9
+02/02/2024 : 1
+10:32: : 1
+feb-14-2024             1c419 : 2
+(8787)  230780  302713  on : 2
+mm: : 4
+
+34-43901 : 4
+
+than : 5
+from wxr-l : 1
+by: : 2
+dfdau : 2
+gpws. : 2
+1333z. : 2
+photos. "ops : 2
+2 : 10
+26 : 8
+sft : 4
+ym34417600:0001 : 16
+h : 24
+1, : 2
+tr11729, : 2
+tr11728 : 2
+tr12387, : 2
+tr12408 : 2
+284a0506-14#a : 6
+radar, : 2
+rdr : 2
+4000 : 2
+n1470588655 : 2
+n1470588717 : 2
+02/17/2024 : 2
+05:22:" : 2
+feb-21-2024             1b169 : 1
+(8871)  230757  302938  around : 1
+19:18z, : 1
+(predictive : 3
+windshear : 4
+alerting : 3
+) : 3
+mds : 5
+(see : 9
+photo). : 5
+came : 5
+multiple : 7
+cruise. : 1
+went : 2
+away : 2
+when wx was : 1
+auto.   "ops : 1
+7993d, : 2
+79jn0 : 5
+n1491531789. : 1
+h, : 12
+7993d : 2
+n1491531789 : 1
+03/18/2024 : 1
+19:13: : 1
+a. : 11
+n1491531789, : 2
+n1491531779 : 2
+feb-26-2024             1b268 : 1
+(7528)  230900  303125  during : 1
+review, : 3
+fault: : 1
+mm : 2
+
+34-43207 : 1
+
+failed, : 1
+2.      "ops : 1
+/ : 4
+receiver : 3
+(p/n : 2
+
+930-2000-010) : 2
+
+iaw : 5
+amm : 8
+34-41-41 : 2
+
+mm34-43207. : 2
+
+6000.retest : 2
+good : 2
+(passed) : 2
+removals : 3
+n1491528465, : 2
+n1491528477, : 3
+n1491531308 : 3
+n1491528316 : 1
+p/n:930-2000-010 : 1
+off:tr07902 : 1
+on:tr12280 : 1
+26, : 1
+#:284a0506-14#a : 1
+#:ym34417600:0001 : 1
+records:n1491528465, : 1
+03/05/2024 : 1
+14:52: : 1
+n1491528316" : 1
+mar-07-2024             1b268 : 2
+(7528)  231020  303341  repeated : 2
+sq(sq16). : 2
+19:29z, wxr : 1
+(weather : 1
+radar) : 1
+additional : 4
+info: : 2
+19:31z, : 2
+tr1 : 2
+video). : 2
+check : 3
+phase. : 2
+fault- : 2
+
+mm34-43207 wxr : 1
+
+active). : 2
+descent.        "ops : 2
+#1 : 2
+n1491535631: : 2
+instl-weather : 2
+radar. : 2
+rp06746 : 2
+rp10584 : 2
+284a0411-344304#b : 2
+n1491538473 : 2
+ncr: : 2
+n1491535631 : 2
+03/13/2024 : 2
+03:59:" : 2
+mar-16-2024             1b527 : 1
+(7660)  231162  303549  at : 1
+2003z : 1
+active) : 1
+captain : 3
+discovered : 1
+rtm, : 1
+7804d, : 1
+n1491542648. : 1
+7804d : 2
+n1491542648 : 1
+03/17/2024 : 1
+20:10: : 1
+r&r : 1
+guidance." : 1
+mar-18-2024             1a706 : 2
+(7738)  231059  303602  when : 1
+turned : 3
+on, : 2
+are : 3
+present. : 2
+occurrence : 2
+1857. : 2
+failed. "ops : 2
+verifed : 2
+n1491545041. : 8
+lru : 8
+tests : 5
+r/t : 2
+780lr : 2
+78v5x : 2
+149-avi-7738-rrmv-sqwk-003nc : 4
+unit : 9
+4kl49k : 2
+4kl57m : 2
+03/31/2024 : 2
+13:41: : 2
+passed." : 2
+mar-19-2024             1c373 : 1
+(7848)  231187  303629  2155z : 1
+& wx fail : 1
+annunciated. : 1
+cmcf : 1
+reciever : 1
+photos  "ops : 1
+adding : 1
+info : 1
+2174385: : 1
+2174385 : 1
+03/27/2024 : 1
+11:36 : 1
+accomplished : 1
+troubleshooting : 1
+ncr#n1491545273 : 1
+
+p/n:822-3150-101 : 1
+
+off:n/a : 3
+on:784dw : 1
+#:dwg : 1
+records:149-avi-7848-rrmv-disp-011nc : 1
+04/18/2024 : 1
+14:18: : 1
+n1491545273, : 1
+faults/mm's : 1
+time." : 1
+apr-19-2024             1b169 : 1
+(8871)  231279  304394  repeat : 1
+19:24z, wxr : 2
+cruise. "ops : 1
+recomendation, : 1
+descrepency : 1
+been : 2
+remedied. : 1
+number: : 2
+sn : 4
+794pb : 1
+record: : 2
+n1491574524 : 1
+drawing: : 2
+sh22 : 1
+module: : 2
+2844a0506-12#a : 1
+pass : 4
+79dmc : 1
+78ypj : 1
+n1491580210 : 1
+05/03/2024 : 1
+04:34:" : 1
+apr-22-2024             1a901 : 1
+(8956)  231513  304523  wx radar : 1
+shows : 3
+usual : 1
+and wx or wx+t. : 1
+attached        "ops : 1
+153308 : 1
+04/26/2024 : 2
+13:28 : 1
+prior : 3
+parts, : 1
+suspect : 1
+antanna : 1
+fault. : 1
+replace : 2
+parts. : 1
+,284a0506 : 1
+dl : 1
+284a0411 : 1
+dl. : 1
+wrp : 2
+4kl49h : 1
+4l0yk5 : 1
+n1491574540 : 1
+7992c : 1
+79jph : 1
+n1491574541 : 1
+781jd : 1
+77vxb : 1
+n1491574543 : 1
+15:37: : 1
+text" : 1
+may-04-2024             1b169 : 1
+(8871)  231622  304859  "this : 1
+squawk : 1
+fs : 2
+16 : 1
+2. : 1
+1930z. : 1
+persisted : 2
+minute. : 1
+
+34-43101 : 2
+
+inspection. : 1
+attached. : 4
+#16. : 1
+cruise."        "ops : 1
+unit. : 2
+off:4yt0pm : 1
+on:4yt0tr : 1
+#:retest : 1
+records:n1491581438 : 1
+05/06/2024 : 1
+08:36: : 1
+notes" : 1
+may-31-2024             1b074 : 1
+(8938)  231798  305679  improper : 1
+and wx modes. : 1
+momentary wxr : 1
+fail. : 1
+maintenence : 1
+xxx. : 1
+pictures.       "ops : 1
+fix:after : 1
+review : 1
+dfdr, : 1
+adr-qar : 1
+adr-all : 1
+data, : 1
+recommends : 1
+replacing : 1
+unit, : 1
+
+822-2127-101. : 1
+
+visually : 1
+inspected : 1
+connectors : 1
+units. : 1
+79dkc : 1
+79dlv : 1
+n1491602423 : 1
+79g2f : 1
+n1491602421 : 1
+06/03/2024 : 1
+22:12:" : 1
+jun-04-2024             1b289 : 1
+(8221)  231853  305819  post : 1
+
+34-43107, wxr : 1
+
+side. : 1
+jun-07-2024             1n901 : 1
+(8916)  231900  305886  at : 1
+fl410 : 1
+beginning : 1
+11:33 : 1
+local : 1
+(and : 1
+rest : 1
+cruise), : 1
+false : 2
+seen : 1
+(wx+t : 1
+an : 8
+mode) : 1
+generally : 1
+up : 2
+range : 1
+about : 1
+10 : 1
+nm : 1
+either : 2
+side : 2
+airplane. : 1
+(var : 1
+nd). : 1
+reduced. : 1
+date            aircraft        afrs : 2
+no      squawk : 2
+no      description     disposition : 2
+jun-10-2023             1d164 : 1
+(8640)  225970  291994  during weather radar : 1
+alignment, : 1
+att : 2
+proc : 2
+amber : 2
+appeared. : 1
+seemed : 1
+initially, : 1
+however, : 1
+appeared : 1
+disappeared.    "ops : 1
+ym34417300:0014 : 1
+j. : 2
+
+p/n:930-1000-002 : 1
+
+on:rp09472 : 1
+#:284a0400 : 2
+#:n/r : 1
+6000284a0400 : 1
+ok : 1
+n/r : 1
+nothing : 2
+jun-23-2023             1g001 : 1
+(7644)  226238  292537  prior : 1
+engine : 3
+start, : 1
+fmc : 6
+wind : 2
+request : 7
+sent : 3
+via : 2
+acars. : 1
+shown : 2
+reverse : 3
+video, : 1
+never : 1
+cleared : 3
+duration : 2
+winds : 1
+uplink, : 1
+requests : 1
+possible. : 1
+stayed : 1
+video : 2
+note : 1
+other : 1
+data : 3
+link : 1
+functions : 3
+normally : 2
+(acars : 1
+to/from : 1
+dispatch, : 1
+atis weather requests, : 1
+etc.). : 1
+pics : 1
+attached.       "eng : 1
+engineering, : 4
+pending. : 7
+jun-27-2023 : 4
+12:21 : 1
+m.&#x20;lundberg : 1
+(2702520) : 1
+17:21 : 1
+d.&#x20;harrell : 5
+(328633) : 5
+17:22 : 2
+29692 : 1
+jun-28-2023 : 2
+14:02 : 2
+closed. : 7
+sep-12-2023, : 3
+service. : 1
+resolution : 3
+root : 3
+cause: : 3
+acars : 1
+start : 1
+properly : 2
+downlink : 2
+instance : 1
+pr : 2
+457081 : 1
+'datalink : 2
+full' : 2
+issue : 2
+u14 : 1
+u14.1. : 1
+provided, : 1
+apparent : 1
+caret : 1
+re-displayed : 1
+remained : 1
+indicate : 1
+successfully. : 1
+additionally, : 1
+datalink : 2
+logs : 1
+provided : 1
+dsps : 1
+sita : 1
+showed : 1
+traffic : 1
+affirmed : 1
+occurred. : 1
+deferred. : 1
+atc. : 1
+fix : 2
+planned : 1
+incorporated : 1
+upcoming : 1
+ops : 1
+u14.2 : 1
+point : 1
+update. : 1
+ecd : 1
+4q : 1
+2024. : 1
+engineering/sme: : 2
+rodriguez, : 1
+alex : 1
+representative: : 3
+todd : 1
+abraham : 1
+dec-14-2023 : 3
+06:11 : 3
+pst, : 28
+s.&#x20;denuski : 3
+(163405) : 2
+signoff : 5
+removal: : 5
+(163405)" : 1
+(8764)  228778  297739  weather radar : 1
+ghost weather return : 1
+no weather in : 1
++ : 1
+sep-16-2023             wh002 : 2
+(1574)  228876  297769  repeat : 1
+fs218 : 1
+irig : 2
+2018 : 1
+take : 1
+roll,weather radar : 1
+terminated : 1
+deck.   eng : 1
+sep-16-2023 : 8
+19:56 : 4
+s.&#x20;kanbe : 4
+(3452091) : 4
+20:23 : 2
+20:34 : 4
+a.&#x20;allen : 8
+(1918029) : 8
+32790 : 1
+sep-19-2023 : 2
+12:00 : 1
+(2194194) : 4
+(1574)  228876  297770  irig : 1
+2123z : 1
+fl310 : 1
+using : 2
+jeppesen : 1
+pro : 2
+application weather layer : 1
+menu,the : 1
+reported : 2
+they : 1
+unable : 2
+download weather information : 1
+inflight. : 1
+note: : 1
+board : 1
+communication : 1
+aircraft : 1
+wireless : 1
+discrepancies : 1
+noted.  "eng : 1
+20:35 : 4
+32791 : 1
+12:05 : 1
+fdpx : 1
+ping : 1
+server : 3
+availability. : 1
+since : 1
+ons : 1
+allow : 1
+'pinging' : 1
+app : 1
+querying : 1
+ground, : 1
+connection : 1
+perpetual : 1
+state : 2
+'cannot : 1
+connect : 1
+server'. : 1
+moves : 1
+application : 1
+form : 1
+pinging : 1
+http : 1
+accesses : 1
+directly. : 1
+flitedeck : 1
+x : 1
+version : 1
+4.7 : 1
+engineering: : 1
+tzuyu : 1
+chen : 1
+ar/sme: : 1
+ernesto : 1
+acevedo : 1
+ubarte : 1
+nov-13-2023 : 3
+07:39 : 3
+oct-01-2023             1a620 : 1
+(7708)  228969  298363  weather radar : 1
+1744z : 1
+m2773, : 1
+780dg : 2
+functionally : 1
+ym34417500:0001 : 2
+n1491422942 : 1
+operation : 2
+120 : 1
+step : 1
+010. : 1
+n1491442565 : 2
+(radome) : 2
+n1491442567 : 2
+(wxr : 1
+module) : 1
+
+p/n:822-2127-101 : 1
+
+23 : 1
+284a0506-13#c : 1
+c : 1
+11/02/2023 : 1
+12:52: : 1
+oct-02-2023             1d760 : 1
+(8767)  229056  298410  when weather radar : 1
+powered : 1
+direction : 1
+(left) : 1
+there : 4
+clunking : 3
+through : 2
+floor : 1
+cockpit : 1
+changed. weather radar : 1
+viewed : 1
+working : 1
+expected : 3
+powered. : 1
+similar : 1
+engines : 2
+running.        "ops : 1
+felt. : 1
+4t2d3t : 1
+4yrxx8 : 1
+n1470575166 : 1
+19:36: : 1
+visible weather patterns : 1
+some weather activity, : 1
+significant weather cell : 1
+oct-27-2023             wf249 : 1
+(1756)  229233  299043  during : 1
+electrical : 1
+getting : 1
+ready : 1
+stby : 2
+pwr : 2
+check, : 1
+gen : 4
+ctrl : 2
+switches : 2
+apu : 2
+switch : 2
+off, : 2
+left weather radar : 1
+work, : 1
+however : 1
+working. : 1
+realized : 1
+the weather radar : 2
+l/r : 1
+selector : 1
+may : 1
+right weather radar. : 1
+confirmation : 1
+download : 1
+right weather radar : 1
+generators : 2
+initially : 1
+off. : 1
+1850z.  "ops : 1
+running : 1
+backup : 1
+operates : 1
+run : 1
+log# : 1
+017047 : 1
+178-flt-1756-n1780574583-001nc : 1
+10/31/2023 : 1
+05:02:" : 1
+dec-09-2023             1a897 : 1
+(8709)  229980  300771  on : 1
+approach : 1
+kpae : 1
+2023z, : 1
+2600ft : 1
+6nm : 1
+north : 1
+airfield: : 1
+capt weather radar : 1
+showing : 1
+buffering : 1
+missing : 1
+blocks. "ops : 1
+31-indicating : 2
+dpc-1 : 1
+dpc-2 : 1
+task : 6
+46-13-02-710-801, : 1
+anomolies. : 3
+34-41-00-730-801 : 1
+test, : 3
+278-avi-8709-n2780164814-001nc. : 1
+p/n:n/a : 1
+on:n/a : 1
+#:34-41-00-730-801 : 1
+records:n/a : 1
+12/12/2023 : 1
+13:42:" : 1
+had weather radar : 1
+afrs.   "ops : 1
+22:05:" : 1
+dec-30-2023             1l104 : 1
+(8183)  230272  301370  weather radar : 1
+seems : 1
+calibration. : 1
+high : 1
+ca : 2
+manual : 4
+adjusting : 2
+elevation : 2
+marginally : 1
+helpful. : 1
+plate : 7
+waveguide : 1
+flange : 1
+jaw : 1
+clamp. : 1
+4knfnv : 1
+4tnlfc : 1
+n1491494540 : 1
+01/15/2024 : 1
+14:09: : 1
+verified" : 1
+jan-18-2024             1b514 : 2
+(7858)  229990  301896  weather radar : 1
+unknown : 5
+target : 4
+most : 2
+2310z : 2
+fail, : 1
+messages.       "ops : 2
+n1491499984, : 2
+u, : 2
+flat : 5
+799br : 2
+78hvc : 2
+n1491512159 : 2
+784j1 : 2
+79dk2 : 2
+n1491506417 : 2
+4kl5t7 : 2
+4rv15t : 2
+n1491509425 : 2
+4kn9rn : 2
+4tnkn2 : 2
+n1491510996 : 2
+02/09/2024 : 2
+16:45:" : 2
+(8857)  230498  301960  with weather radar : 1
+selected, weather radar : 1
+wx+t : 1
+significant weather radar : 1
+wxr, : 1
+feb-19-2024             1g003 : 1
+(7935)  230819  302831  while : 1
+altitudes : 1
+visible weather outside, : 1
+would : 1
+little : 1
+gain, : 1
+some weather would : 1
+become : 1
+prevalent : 1
+still : 1
+representative : 2
+visible weather seen : 1
+outside : 1
+over : 2
+water, : 1
+shoreline : 1
+depicted : 1
+the weather was : 1
+line : 1
+of weather moving : 1
+area.   "ops : 1
+unconfirmed. : 2
+500, : 2
+600, : 2
+700 : 4
+general : 2
+visual : 2
+inspection : 2
+finding. : 2
+feb-19-2024 : 13
+18:53 : 1
+d.&#x20;ngo : 1
+(3558233) : 1
+verified. : 2
+19:02 : 1
+t.&#x20;workman : 1
+(121313) : 1
+19:23 : 1
+t.&#x20;fry : 3
+(1895403) : 3
+19:27 : 2
+j.&#x20;mccready : 7
+(1883320) : 7
+open. : 1
+category : 2
+item. : 2
+t.&#x20;circenis : 3
+(3258807) : 3
+20:36 : 1
+20:37 : 1
+32921. : 1
+feb-21-2024 : 1
+08:42 : 2
+19:29z, : 1
+(weather radar) : 1
+
+mm34-43207 : 1
+
+mar-10-2024             1b288 : 1
+(8214)  231091  303416  l weather radar : 1
+compared : 1
+adjusted : 1
+setting : 1
+both weather radars. : 1
+difference : 1
+two weather radars : 1
+significant. : 1
+2142253 : 1
+03/14/2024 : 1
+10:23 : 1
+replaced, : 1
+
+930-3001-001 : 2
+
+lh : 2
+rh : 2
+
+930-2000-010wxr : 1
+
+transmitter/receivers, : 1
+
+930-6102-001 : 2
+
+panel. : 1
+perform : 1
+da06570 : 1
+da08002 : 1
+h. : 8
+n2780170752 : 1
+1143aa0740 : 1
+1143aa0749 : 1
+233a6103 : 1
+158 : 1
+233a6104-344373#a : 1
+n2780170755 : 1
+tr10089 : 1
+tr12526 : 1
+n2780170757 : 1
+tr10090 : 1
+tr12267 : 1
+n2780170758 : 1
+
+930-4301-001 : 1
+
+fp06568 : 2
+n2780170761 : 1
+(7738)  231059  303602  when weather radar : 1
+apr-09-2024             1f153 : 1
+(8922)  231313  304198  weather radar : 1
+adjustments : 1
+expected weather returns. : 1
+n1491570304. : 1
+rp10225 : 1
+rp10531 : 1
+passes : 2
+n1491570304 : 1
+04/23/2024 : 1
+07:14: : 1
+may-20-2024             1a899 : 1
+(8951)  231693  305233  when : 1
+automode, : 1
+fo weather radar : 1
+excessive : 1
+-2 : 1
+degrees : 1
+altitude. : 1
+mode, : 1
+pn: : 1
+suggestion, : 1
+off:4rv15k : 1
+on:4l10n9 : 1
+sht: : 1
+#:jitt: : 1
+records:147-avi-8951-rrmv-sqwk-001nc : 1
+147-avi-8951-rrmv-sqwk-002nc : 1
+147-avi-8951-rrmv-sqwk-003nc : 1
+05/22/2024 : 1
+11:07:" : 1
+may-24-2024             1m007 : 1
+(8905)  231830  305438  about : 1
+20% : 1
+time weather radar : 1
+was weather.    "ops : 1
+transmitter, : 1
+79fx8 : 1
+788fj : 1
+n1491598986 : 1
+77r1v : 1
+78yjk : 1
+n1491598918 : 1
+(7858)  229990  301896  weather : 1
+displayed pws fail, : 1
+jan-22-2024             1k314 : 1
+(8780)  230534  301993  at : 1
+1914z : 1
+amber pws fail : 1
+illuminate : 1
+. : 1
+indication : 1
+lasted : 1
+less : 2
+30 : 1
+seconds. : 1
+landing : 2
+
+34-43107. : 1
+
+n2780168580. : 1
+34-41-00-710-801 : 4
+operational : 4
+management : 1
+request. : 1
+tr11627 : 1
+tr12123 : 1
+n2780168711 : 1
+rp09750 : 1
+rp10218 : 1
+n2780168719 : 1
+01/24/2024 : 1
+22:19:" : 1
+wxr-l : 1
+apr-19-2024             1d661 : 1
+(8895)  231351  304386  pws fail : 1
+gpws ground : 1
+illuminated.    "ops : 1
+pulled : 1
+reset : 1
+c/b's : 1
+ym34217109:0001 : 2
+6100 : 1
+04/19/2024 : 1
+14:27: : 1
+may-19-2024             1b662 : 1
+(7687)  231608  305225  at : 1
+2203z, : 1
+momentary pws fail : 1
+sides.  "ops : 1
+ground.verifed : 1
+continuity : 1
+grounds : 1
+gpws : 1
+d13795b : 1
+pins : 1
+j5 : 1
+j6 : 1
+d1153a : 1
+c8 : 1
+d8 : 1
+wdm34-49-11. : 1
+recommendation : 1
+short : 1
+stamp : 1
+20), : 1
+u. : 1
+off:77yjv : 1
+on:78yjh : 1
+n1491593449 : 1
+off:780dc : 1
+on:798dw : 1
+records:n1491594222 : 1
+05/29/2024 : 1
+12:23:" : 1
+sep-02-2023             wh003 : 1
+(1581)  228730  297338  irig : 1
+1840z : 1
+1957z : 1
+speed : 1
+150 : 1
+knots : 1
+altitude : 1
+5000 : 1
+feet, : 1
+aural : 3
+tone. : 1
+sounded : 1
+like : 1
+the windshear aural : 1
+alert : 2
+truncated : 1
+second, : 1
+couldnt : 1
+determined : 1
+sounded. : 1
+analyst : 1
+reviewed/monitored : 1
+eicas : 1
+live! : 1
+history : 1
+events : 1
+these : 1
+times; : 1
+cautions, : 1
+advisories, : 1
+warnings : 1
+tone.   "eng : 1
+engineering. : 3
+sep-02-2023 : 2
+20:09 : 2
+j.&#x20;curran : 4
+(1526217) : 4
+sep-03-2023 : 4
+00:13 : 1
+32767 : 1
+sep-07-2023 : 4
+05:01 : 2
+service." : 2
+sep-03-2023             wh003 : 1
+(1581)  228737  297348  at : 1
+180110 : 1
+0.25 : 1
+mach : 1
+fl050 : 1
+momentary windshear aural : 1
+lasting : 1
+second. : 1
+event.  "eng : 1
+23:22 : 2
+sep-04-2023 : 2
+00:32 : 1
+03:04 : 1
+32768 : 1
+05:02 : 2
+dec-19-2023             wh002 : 1
+(1574)  230155  301177  the : 1
+message. windshear predictive : 1
+please : 1
+transfer : 1
+tasks : 1
+completed.      "ops : 1
+information: : 2
+message, : 2
+""windshear : 2
+predictive : 2
+r"" : 4
+related : 2
+successful : 2
+""rt : 2
+wm34428024:0001, : 2
+d, : 2
+dec-20-2023 : 7
+18:35 : 1
+c.&#x20;mcnicholas : 1
+(1836839) : 1
+19:10 : 1
+s.&#x20;bentley : 1
+(1828939) : 1
+19:14 : 3
+d.&#x20;dotson : 3
+(1664761) : 3
+20:42 : 1
+20:45 : 1
+32863. : 1
+dec-21-2023 : 1
+13:26 : 1
+n.&#x20;espinosa : 1
+(3454636) : 1
+airplane-sqk : 1
+(wh002-996), : 1
+#32863 : 1
+supplier : 1
+iss : 1
+contained : 1
+exceeding : 1
+allocated : 1
+causing : 1
+cycle : 1
+slips. : 1
+dspm : 1
+cpci : 1
+machine : 1
+(wx2 : 1
+cpci) : 1
+updated : 1
+spread : 1
+calls : 1
+several : 1
+steps. : 1
+evan : 1
+murphy : 1
+gonzalo : 1
+lopez : 1
+may-23-2024 : 3
+18:08 : 1
+c.&#x20;garand : 3
+(3134451) : 2
+18:10 : 2
+(3134451)" : 1
+| 4000: DRV Source |
+| 4001: RTM Source |
+| 4002: WRP-MP Source |
+| 4003: External Source |
+| 4004: WRP-IOP for OMS Source |
+PS C:\Users\as041f\projects\test>
